@@ -24,3 +24,6 @@ MySQL: Used as the database to store student information.
 
 ## NOTE ##
 The PHP Files work in the database named Account and Registration, so proceed accordingly by naming your databases as account and registration or you can modify the PHP code.
+
+## NOTE 2 ##
+Image Files like `Razorpay.png` and `dashboard2.avif` are used as placeholders for future updates.
